@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\IntegracaoChamados.props" />
+</Project>
