@@ -77,3 +77,4 @@ C:\Users\User\source\repos\IntegracaoChamados\IntegracaoChamados\obj\Debug\net6.
 C:\Users\User\source\repos\IntegracaoChamados\IntegracaoChamados\obj\Debug\net6.0\IntegracaoChamados.pdb
 C:\Users\User\source\repos\IntegracaoChamados\IntegracaoChamados\obj\Debug\net6.0\IntegracaoChamados.genruntimeconfig.cache
 C:\Users\User\source\repos\IntegracaoChamados\IntegracaoChamados\obj\Debug\net6.0\ref\IntegracaoChamados.dll
+C:\Users\User\source\repos\IntegracaoChamados\IntegracaoChamados\obj\Debug\net6.0\IntegracaoChamados.sourcelink.json
