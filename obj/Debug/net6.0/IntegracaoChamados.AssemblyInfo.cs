@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IntegracaoChamados")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e9539b8026b0140eef82a1d644ddb6d17da6d71")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9bd26e79e43021f231c8d44fc593596905280b29")]
 [assembly: System.Reflection.AssemblyProductAttribute("IntegracaoChamados")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IntegracaoChamados")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
